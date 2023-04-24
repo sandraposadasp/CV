@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(219, 179, 219);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image-profile{
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    color: mediumvioletred;
+    font-size: 80px;
+    text-align: center;
+}
+
+h2 {
+    background-color: cadetblue;
+    color: hotpink;
+    font-size: 60px;
+    text-align: center;
+}
+
+h3 {
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+}
+
+h4 {
+    background-color: darkkhaki;
+    color: rgb(79, 96, 168);
+    font-size: 25px;
+    text-align: center;
+}
+
+p {
+    font-size:20px;
+    text-align: center;
+}
+
+ul {
+    font-size:20px;
+    text-align: justify;
+}
